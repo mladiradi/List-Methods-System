@@ -6,7 +6,7 @@
 Develop a console-based application that allows users to perform various operations on a list. The application will present a menu of options, each corresponding to a different list method. Users can choose an option by entering a number, and the application will execute the corresponding list method.
 
 
-##Key Features and Explanation
+# Key Features and Explanation
 
     Menu Display:
         The display_menu function presents the list of available operations to the user.
@@ -26,11 +26,11 @@ Develop a console-based application that allows users to perform various operati
     Modularity:
         Each operation is encapsulated within its function, making the code modular and easy to maintain or extend.
 
-##Additional Notes
+# Additional Notes
 
     Data Types:
         The list operations assume that all inputs are strings since they are split from a comma-separated input string. If numerical operations are required, additional input parsing and validation may be necessary.
     Sort and Reverse:
         The sort and reverse operations modify the list in place. Sorting assumes comparable data types.
 
-##This program serves as a practical application of various list operations, providing a simple user interface for managing and manipulating lists.
+# This program serves as a practical application of various list operations, providing a simple user interface for managing and manipulating lists.
