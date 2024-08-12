@@ -33,4 +33,3 @@ Develop a console-based application that allows users to perform various operati
     Sort and Reverse:
         The sort and reverse operations modify the list in place. Sorting assumes comparable data types.
 
-This program serves as a practical application of various list operations, providing a simple user interface for managing and manipulating lists.
