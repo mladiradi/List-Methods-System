@@ -1,6 +1,7 @@
 # Python-List-Methods-System
 
-1*mqwg-HnWZQcHQ3-k1GAi9g
+![image](https://github.com/user-attachments/assets/962a0cc4-537e-46a3-9581-6daf4a185d8b)
+
 
 Develop a console-based application that allows users to perform various operations on a list. The application will present a menu of options, each corresponding to a different list method. Users can choose an option by entering a number, and the application will execute the corresponding list method.
 
